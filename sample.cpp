@@ -1,15 +1,11 @@
-#include <iostream>
+#include <iostream> //<> - 표준 표현
 
 using namespace std;
 
-int main()
+//C언어 style
+int main(/*int argc, char* argv[]*/) // entry point(무조건 하나는 있어야함, 가장 먼저 실행)
 {
-	cout << "Hello World" << endl;
-
-	cout << 3 + 4 << endl;
-
-	cout << 3 * 4 << endl;
-
-	cout << 3 / 4 << endl;
-	return 0;
+	cout << 1 << endl;
+	
+	return 0; // 반환 , 필수
 }
