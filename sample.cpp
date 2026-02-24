@@ -11,6 +11,7 @@ int main(/*int argc, char* argv[]*/) // entry point(무조건 하나는 있어야함, 가장
 	// Pascal 표기법
 	// 언리얼 엔진해서는 GoldOfBand 처럼 단어가 바뀔떄마다 대문자로 표시 Gold_of_band x
 	// + 첫번째 글자도 대문자로 ex) number x Number o 
+	// 생략 x -> 자동
 
 	cin >> Number; // cin(입력) >>(을 오른쪽에 넣어라)
 
@@ -24,5 +25,6 @@ int main(/*int argc, char* argv[]*/) // entry point(무조건 하나는 있어야함, 가장
 	// 문자 상수 'A', 'B'
 	// 문자열 "AB"
 	// 연산자 -> operator, 산술연산자 +, -, *, /, %
+
 	return 0; // 반환 , 필수
 }
