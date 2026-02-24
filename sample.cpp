@@ -8,5 +8,7 @@ int main()
 
 	cout << 3 + 4 << endl;
 
+	cout << 3 * 4 << endl;
+
 	return 0;
 }
