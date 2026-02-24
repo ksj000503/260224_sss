@@ -9,7 +9,7 @@ int main(/*int argc, char* argv[]*/) // entry point(무조건 하나는 있어야함, 가장
 	int Number = 10; // RAM에 공간을 만들어서 그 공간 이름을 Number(변수)로 정의 후 안에 10
 	// 변수는 숫자로 시작시 x, 대소문자 구분
 	// Pascal 표기법
-	// 언리얼 엔진해서는 GoldOfBand 처럼 단어가 바뀔떄마다 대문자로 표시 Gold_of_band x
+	// 언리얼 엔진해서는 GoldOfBank 처럼 단어가 바뀔떄마다 대문자로 표시 Gold_of_band x
 	// + 첫번째 글자도 대문자로 ex) number x Number o 
 	// 생략 x -> 자동
 
